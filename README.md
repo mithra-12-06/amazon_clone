@@ -64,4 +64,4 @@ This is a responsive *Amazon Clone Frontend* built using HTML, CSS, and JavaScri
 
 ---
 
-## 📁 Folder Structure
+
